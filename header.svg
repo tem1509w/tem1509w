@@ -53,7 +53,7 @@
   <!-- terminal -->
   <rect x="270" y="172" width="460" height="42" rx="10" fill="#080620" stroke="#4c1d95"/>
   <text x="290" y="199" fill="#d946ef" font-family="Consolas, Menlo, monospace" font-size="15" clip-path="url(#type)">&gt; for fun and for work</text>
-  <rect x="400" y="183" width="3" height="20" fill="#22d3ee">
+  <rect x="550" y="183" width="3" height="20" fill="#22d3ee">
     <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
   </rect>
 
