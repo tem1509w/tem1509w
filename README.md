@@ -31,7 +31,7 @@ I'm currently working on becoming a better full-stack developer, with a focus on
 
 - Designing functional models and system structure
 - UI/UX design
-- Steadily improving my other skills every day
+>> Steadily improving my other skills every day
 
 
 ## Contact
