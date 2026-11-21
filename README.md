@@ -34,7 +34,4 @@ I'm currently working on becoming a better full-stack developer, with a focus on
 >> Steadily improving my other skills every day
 
 
-## Contact
-
-[![Email](https://img.shields.io/badge/EMAIL-tamle3540%40gmail.com-d946ef?style=for-the-badge&labelColor=0b0a24)](mailto:tamle3540@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-tem1509w-22d3ee?style=for-the-badge&labelColor=0b0a24)](https://github.com/tem1509w)
+<h2 align="center">Contact</h2> <p align="center"> <a href="mailto:tamle3540@gmail.com"><img src="https://img.shields.io/badge/EMAIL-tamle3540%40gmail.com-d946ef?style=for-the-badge&labelColor=0b0a24" alt="Email" /></a> <a href="https://github.com/tem1509w"><img src="https://img.shields.io/badge/GITHUB-tem1509w-22d3ee?style=for-the-badge&labelColor=0b0a24" alt="GitHub" /></a> </p>
