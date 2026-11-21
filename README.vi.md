@@ -15,11 +15,11 @@
 
 ## Giới thiệu
 
-Mình là **Lê Thành Tâm**, biệt danh **tem**, sinh viên ngành IT, chuyên ngành **AI và Big Data** tại **Trường Đại học Hàng không Việt Nam**.
+Mình là **Lê Thành Tâm**, hay là **tem**, sinh viên IT, chuyên ngành **AI và Big Data** tại **Trường Đại học Hàng không Vũ trụ Việt Nam**.
 
-Hiện mình đang học để trở thành một full-stack developer tốt hơn, tập trung vào phát triển ứng dụng và web. Về lâu dài, mình muốn làm những dự án lớn như game hoặc ứng dụng quy mô lớn (AI và hơn thế nữa).
+Hiện mình đang học để hướng tới trở thành một full-stack developer, tập trung vào phát triển ứng dụng và web. Về lâu dài, mình muốn làm những dự án lớn như game hoặc ứng dụng quy mô lớn.
 
-Phương châm: **for fun and for work.**
+ ** profile for fun and for work.**
 
 ## Định hướng
 
@@ -31,11 +31,9 @@ Phương châm: **for fun and for work.**
 
 - Thiết kế mô hình chức năng và cấu trúc hệ thống
 - Thiết kế UI/UX
-- Cải thiện các kỹ năng khác mỗi ngày
+>> Cải thiện các kỹ năng khác mỗi ngày
 
-## Thống kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tem1509w&show_icons=true&hide_border=true&bg_color=0b0a24&title_color=22d3ee&icon_color=a855f7&text_color=c7d2fe)
 
 ## Liên hệ
 
