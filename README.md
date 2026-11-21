@@ -19,7 +19,7 @@ I'm **Lê Thành Tâm**, also known as **tem**, an IT student majoring in **AI a
 
 I'm currently working on becoming a better full-stack developer, with a focus on app and web development. In the long run, I want to take on big projects, like a game or a large application (AI-powered and beyond).
 
-My motto: **for fun and for work.**
+ **profile for fun and for work.**
 
 ## Focus
 
@@ -33,9 +33,6 @@ My motto: **for fun and for work.**
 - UI/UX design
 - Steadily improving my other skills every day
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tem1509w&show_icons=true&hide_border=true&bg_color=0b0a24&title_color=22d3ee&icon_color=a855f7&text_color=c7d2fe)
 
 ## Contact
 
